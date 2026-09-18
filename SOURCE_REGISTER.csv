@@ -1,0 +1,11 @@
+source_id,entity,source_class,title,url,checked_at,used_for,note
+S01,ALL,scientific,Systematic review: open-skill and closed-skill exercise and executive functions in children,https://pubmed.ncbi.nlm.nih.gov/39078904/,2026-09-18,"C2,context","Систематический обзор; используется как контекст когнитивных требований, не как обещание роста IQ."
+S02,ALL,scientific,Meta-analysis of open-skill exercise in children and adolescents,https://pubmed.ncbi.nlm.nih.gov/39967690/,2026-09-18,"C2,context","Метаанализ open-skill тренировок; результаты неоднородны."
+S03,Спортивное ориентирование,institutional,International Orienteering Federation: Orienteering,https://orienteering.sport/orienteering/,2026-09-18,"C2,C3","Определяет foot orienteering как endurance sport with a huge mental element; route choice while running."
+S04,Настольный теннис,scientific,Table tennis anticipation and serve prediction study,https://pubmed.ncbi.nlm.nih.gov/40992678/,2026-09-18,C2,"Прогнозирование вращения и направления подачи."
+S05,Бадминтон,scientific,Badminton anticipation and multisensory decision-making study,https://pmc.ncbi.nlm.nih.gov/articles/PMC13405655/,2026-09-18,C2,"Опытные игроки точнее прогнозировали зону приземления волана."
+S06,Скалолазание,scientific,Route preview visual search in climbers,https://pubmed.ncbi.nlm.nih.gov/38740079/,2026-09-18,C2,"Уровень спортсменов связан со стратегией визуального поиска при просмотре трассы."
+S07,Теннис,scientific,Anticipation of opponent actions in tennis,https://pubmed.ncbi.nlm.nih.gov/15730949/,2026-09-18,C2,"Опытные теннисисты лучше используют кинематическую информацию для прогнозирования."
+S08,ALL,prior_publication,TenChat: ТОП-10 видов спорта для школьников,https://tenchat.ru/media/6144215-top10-vidov-sporta-dlya-shkolnikov-kotorym-nravitsya-dumat-reyting-2026,2026-09-18,provenance,"Первая опубликованная версия темы 17.09.2026."
+S09,ALL,prior_publication,vc.ru: ТОП видов спорта для школьников,https://vc.ru/life/3145099-top-vidov-sporta-dlya-shkolnikov,2026-09-18,provenance,"Публичная версия 17.09.2026."
+S10,ALL,prior_publication,Sostav: ТОП-10 видов спорта для школьников,https://www.sostav.ru/blogs/294064/109370,2026-09-18,provenance,"Публичная версия 18.09.2026; автор Амалия Саакян."
