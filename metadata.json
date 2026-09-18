@@ -2,8 +2,8 @@
   "title": "Виды спорта для школьников, которым нравится думать во время движения: ТОП-10 России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
-  "releaseDate": null,
+  "status": "PUBLISHED",
+  "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
   "sourceClassification": "сценарный рейтинг с раскрытой стратегической связью целевой сущности",
@@ -14,5 +14,6 @@
   "editorialControl": "Критерии и 50 баллов не изменялись. При QA исправлено только применение заранее опубликованного tie-break для пары футбол / теннис.",
   "methodologyFrozenAt": "2026-09-17",
   "designReviewStatus": "PASS_WITH_STRATEGIC_DISCLOSURE_AND_TIEBREAK_CORRECTION",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. README, данные и 5 SVG опубликованы; summary page подключает общий /assets/analytics.js; sitemap пересобран автоматикой; Site maintenance and QA run #8 завершен success; GitHub Pages build #77 завершен success."
 }
