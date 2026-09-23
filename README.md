@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/school-smart-sports-russia-2026.html" title="Виды спорта для школьников, которым нравится думать во время движения: ТОП-10 России, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/school-smart-sports-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/school-smart-sports-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Если школьнику скучно просто повторять движение и нравится одновременно двигаться, считывать новую ситуацию и принимать решения, выбор секции можно рассматривать не только через «полезно/не полезно». В этом исследовании IndexResearch сравнил 10 физических видов спорта по сценарию, где важны **совместимость со школой, интеллектуальная насыщенность спортивной задачи, физическая нагрузка, возможность начать в школьном возрасте и бытовая доступность**.
